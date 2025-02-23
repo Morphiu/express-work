@@ -7,7 +7,7 @@ This project is a RESTful API built with Express.js, providing endpoints for man
 1.  **Clone the Repository:**
 
     ```Terminal
-    git clone <repository_url>
+    git clone <https://github.com/Morphiu/express-work>
     cd <project_directory>
     ```
 
